@@ -8,7 +8,7 @@ In addition to language specific coding styles, the [GeneralGuidelines.md](docs/
 
 ## Languages
 
-- C# (coming soon)
+- [C#](docs/Languages/C-Sharp.md)
 - C++ (coming soon)
 - [HTML](docs/Languages/HTML.md)
 - [Markdown](docs/Languages/Markdown.md)

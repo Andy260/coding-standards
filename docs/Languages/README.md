@@ -6,7 +6,7 @@ This section describes language specific coding styles and/or conventions used w
 
 Below is a link to each document covering each language covered within this section.
 
-- C# (coming soon)
+- [C#](C-Sharp.md)
 - C++ (coming soon)
 - CSS (coming soon)
 - [HTML](HTML.md)
