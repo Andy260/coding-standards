@@ -9,7 +9,7 @@ Below is a link to each document covering each language covered within this sect
 - C# (coming soon)
 - C++ (coming soon)
 - CSS (coming soon)
-- HTML (coming soon)
+- [HTML](HTML.md)
 - [Markdown](Markdown.md)
 - Razor (coming soon)
 - Rust (coming soon)
