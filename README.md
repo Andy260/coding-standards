@@ -11,7 +11,7 @@ In addition to language specific coding styles, the [GeneralGuidelines.md](docs/
 - C# (coming soon)
 - C++ (coming soon)
 - HTML (coming soon)
-- Markdown (coming soon)
+- [Markdown](docs/Languages/Markdown.md)
 - Razor (coming soon)
 - Rust (coming soon)
 - SCSS (coming soon)
