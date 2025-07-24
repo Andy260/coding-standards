@@ -1,13 +1,17 @@
 # Personal Coding Standards
 
-This repository documents the coding standards I use across my personal projects. These guidelines help ensure consistency, readability, and maintainability in codebases.
+This repository documents the coding standards I use across my personal projects. These guidelines help ensure consistency, readability, and maintainability in codebases. Each project may still have their own coding standards and/or conventions, but this project serves to be a starting point for such standards and conventions.
+
+## General Guidance
+
+In addition to language specific coding styles, the [GeneralGuidelines.md](docs/GeneralGuidelines.md) document also outlines language agnostic guidance that should be followed as much as possible.
 
 ## Languages
 
 - C# (coming soon)
 - C++ (coming soon)
-- CSS (coming soon)
 - HTML (coming soon)
+- Markdown (coming soon)
 - Razor (coming soon)
 - Rust (coming soon)
 - SCSS (coming soon)
