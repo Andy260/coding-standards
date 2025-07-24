@@ -151,7 +151,7 @@ Finally, ensure the viewport is also set.
 
 ## HTML Comments
 
-While Razor comments should be preferred, if HTML comments in the output HTML is desired, ensure single line comments only occupy one line in the source code, and multi-line comments are wrapped by the `<!--` `-->` tags surround them.
+Ensure single line comments only occupy one line in the source code, and multi-line comments are wrapped by the `<!--` `-->` tags surround them.
 
 ```html
 <!-- Single line comment -->
