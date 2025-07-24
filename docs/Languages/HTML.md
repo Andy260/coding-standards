@@ -2,6 +2,8 @@
 
 This section describes the conventions and styling used when writing HTML. While many versions of HTML exist, this document will focus on HTML5 as it is the most modern version of HTML at the time of writing.
 
+In addition to the styles and conventions outlined in this document, the general guidelines outlined within the [GeneralGuidelines.md](../GeneralGuidelines.md) document should also be followed.
+
 The style used is heavily inspired by the style recommended by [W3 Schools'](https://www.w3schools.com/html/html5_syntax.asp) and [Google's HTML](https://google.github.io/styleguide/htmlcssguide.html) style guides.
 
 ## Use Lowercase Elements Names

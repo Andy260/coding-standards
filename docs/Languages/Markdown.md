@@ -2,6 +2,8 @@
 
 This documents describes the conventions and styling used when contributing Markdown code to this project. In addition to these styles and standards, the coding standards and practises outlined by the [CodingStyle.md](CodingStyle.md) document should also be followed.
 
+In addition to the styles and conventions outlined in this document, the general guidelines outlined within the [GeneralGuidelines.md](../GeneralGuidelines.md) document should also be followed.
+
 These styles and conventions are inspired by [Google's Markdown style guide](https://google.github.io/styleguide/docguide/style.html).
 
 [TOC]
