@@ -8,10 +8,11 @@ Below is a link to each document covering each language covered within this sect
 
 - [C#](C-Sharp.md)
 - C++ (coming soon)
-- CSS (coming soon)
 - [HTML](HTML.md)
+- JSON (coming soon)
 - [Markdown](Markdown.md)
-- Razor (coming soon)
+- [Razor](Razor.md) (`.razor` files)
 - Rust (coming soon)
 - Sass (SCSS) (coming soon)
 - Typescript (coming soon)
+- XML (coming soon)

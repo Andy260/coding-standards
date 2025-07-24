@@ -11,11 +11,13 @@ In addition to language specific coding styles, the [GeneralGuidelines.md](docs/
 - [C#](docs/Languages/C-Sharp.md)
 - C++ (coming soon)
 - [HTML](docs/Languages/HTML.md)
+- JSON (coming soon)
 - [Markdown](docs/Languages/Markdown.md)
-- Razor (coming soon)
+- [Razor](docs/Languages/Razor.md) (`.razor` files)
 - Rust (coming soon)
-- SCSS (coming soon)
+- Sass (SCSS) (coming soon)
 - Typescript (coming soon)
+- XML (coming soon)
 
 ## Usage
 
