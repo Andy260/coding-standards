@@ -15,7 +15,7 @@ In addition to language specific coding styles, the [GeneralGuidelines.md](docs/
 - [Markdown](docs/Languages/Markdown.md)
 - [Razor](docs/Languages/Razor.md) (`.razor` files)
 - Rust (coming soon)
-- Sass (SCSS) (coming soon)
+- Sass (coming soon)
 - Typescript (coming soon)
 - XML (coming soon)
 

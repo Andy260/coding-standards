@@ -13,6 +13,6 @@ Below is a link to each document covering each language covered within this sect
 - [Markdown](Markdown.md)
 - [Razor](Razor.md) (`.razor` files)
 - Rust (coming soon)
-- Sass (SCSS) (coming soon)
+- Sass (coming soon)
 - Typescript (coming soon)
 - XML (coming soon)

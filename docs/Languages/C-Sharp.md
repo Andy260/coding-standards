@@ -11,6 +11,8 @@ These styles and conventions are inspired by Microsoft's [identifier naming rule
 
 ## Naming Conventions
 
+This section describes the intended conventions to be used when naming objects within C# code.
+
 ### Variables
 
 Use camelCasing for local variables and method parameters.
@@ -108,6 +110,8 @@ public bool IsEnabled { get; private set; }
 
 ## Layout
 
+This section describes the intended layouts of C# source files.
+
 ### Indentation And Spacing
 
 - Use 4 spaces per indentation level. Do not use tabs.
@@ -191,6 +195,8 @@ public class ExampleClass
 ```
 
 ## Language Usage
+
+This section describes specific conventions and usage of specific language features.
 
 ### Comments Usage
 
@@ -298,6 +304,8 @@ switch (state)
 ```
 
 ### Error Handling
+
+This section describes how errors and/or exceptions should be handled within C# code.
 
 #### Exceptions
 
