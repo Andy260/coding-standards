@@ -133,7 +133,7 @@ For example: `App.razor` and `App.scss` (compiled to `App.css`) for global style
 
 ## JavaScript Interop
 
-When writing code for JavaScript interop (implementing functionality that cannot be done within `.razor` files), writing the code within Typescript is strongly preferred. 
+When writing code for JavaScript interop (implementing functionality that cannot be done within `.razor` files), writing the code within Typescript is strongly preferred.
 
 The Typescript file should be written as an isolated `.ts` file within a `.razor` component.
 

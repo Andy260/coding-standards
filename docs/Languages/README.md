@@ -8,6 +8,7 @@ Below is a link to each document covering each language covered within this sect
 
 - [C#](C-Sharp.md)
 - C++ (coming soon)
+- [CSS](CSS.md)
 - [HTML](HTML.md)
 - JSON (coming soon)
 - [Markdown](Markdown.md)

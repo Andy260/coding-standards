@@ -10,6 +10,7 @@ In addition to language specific coding styles, the [GeneralGuidelines.md](docs/
 
 - [C#](docs/Languages/C-Sharp.md)
 - C++ (coming soon)
+- [CSS](docs/Languages/CSS.md)
 - [HTML](docs/Languages/HTML.md)
 - JSON (coming soon)
 - [Markdown](docs/Languages/Markdown.md)
